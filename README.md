@@ -105,8 +105,8 @@ Created order 5/5: Side: SELL, Price: 250.987, Volume: 2000.0
    import random
    from binance.client import Client
 
-   api_key = 'ваш_ключ_api'
-   api_secret = 'ваш_секрет_api'
+   api_key = 'your_api_key'
+   api_secret = 'your_secret_key'
    client = Client(api_key, api_secret)
 
    # Здесь определите функции create_orders() и get_step_size()
