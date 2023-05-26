@@ -126,7 +126,7 @@ Created order 5/5: Side: SELL, Price: 250.987, Volume: 2000.0
    create_orders(data)
    ```
 
-4. Замените `'your_key_api'` и `'your_secret_key'` на свои реальные ключ и секрет API, полученные от Binance.
+4. Замените `'your_key_api'` и `'your_secret_key'` на свои реальный ключ и секретный ключ, полученные от Binance.
 
 5. Запустите скрипт, используя команду `python имя_файла.py`, где `имя_файла.py` - имя вашего созданного файла.
 
